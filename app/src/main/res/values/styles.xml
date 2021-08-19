@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="label_style_one">
+        <item name="android:background">@drawable/text_bg</item>
+        <item name="android:fontFamily">@font/bangers</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Display1</item>
+        <item name="android:textColor">#F44336</item>
+    </style>
+</resources>

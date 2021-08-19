@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/fragment_second_scene"
+    tools:context=".SecondFragment">
+
+    <Button
+        android:id="@+id/button_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/previous"
+        tools:layout_editor_absoluteX="287dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        style="@style/label_style_one"
+        android:layout_width="86dp"
+        android:layout_height="wrap_content"
+        android:rotationY="20"
+        android:text="Apple"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="292dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        style="@style/label_style_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DELL"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        style="@style/label_style_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ASUS"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="94dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        style="@style/label_style_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MSI"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="94dp" />
+</androidx.constraintlayout.motion.widget.MotionLayout>

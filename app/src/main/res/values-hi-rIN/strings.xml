@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Style and localization</string>
+    <string name="first_fragment_label">पहला टुकड़ा</string>
+    <string name="second_fragment_label">दूसरा टुकड़ा</string>
+    <string name="next">अगला</string>
+    <string name="previous">पहले का</string>
+    <string name="hello_first_fragment">नमस्ते पहला टुकड़ा</string>
+    <string name="hello_second_fragment">नमस्ते दूसरा खंड। तर्क: %1$s</string>
+    <string name="app_label">ऐप उदाहरण में आपका स्वागत है</string>
+    <string name="screen_msg_1">क्या आप बिना कुछ सीखे अपना जीवन जीना चाहते हैं।</string>
+    <string name="label_2">परवाह नहीं।</string>
+    <string name="screen_msg_2">पेश है यह भद्दा ऐप जो कुछ नहीं करेगा, जिससे आपको चिंता करने की ज़रूरत नहीं है</string>
+    <string name="screen_confirmation_msg">मुझे सब कुछ समझ में नहीं आता</string>
+    <string name="top">घर जाओ</string>
+</resources>

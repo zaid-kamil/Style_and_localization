@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Style and localization</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="app_label">Welcome to App Example</string>
+    <string name="screen_msg_1">do you want to live your life without having to learn something.</string>
+    <string name="label_2">Worry Not.</string>
+    <string name="screen_msg_2">Presenting this crappy app that will not do anything, So that you wont have to worry</string>
+    <string name="screen_confirmation_msg">I dont understand everything</string>
+    <string name="top">Go to Home</string>
+</resources>
